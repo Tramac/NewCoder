@@ -41,4 +41,4 @@
 针对每组数据输出一行数据，表示合并后的集合，要求从小到大输出，每个元素之间有一个空格隔开,行末无空格。
 * 我的思路:<br>
 我的思路真的是太普通了，而且超内存了，只让过20%。基本的数组操作还是要多多联系啊。首先建立两个数组来保存两行输入，然后分别对两个数组排序，对两个数组依次遍历，如果和前一个输出的元素不相同就输入较小的数字，然后递归调用。好多这样的题，只会这样最简单最笨的思路，唉。
-* 我的代码（https://github.com/Tramac/NewCoder/blob/master/JingDong2017/MergeSet.cpp）
+* [我的代码](https://github.com/Tramac/NewCoder/blob/master/JingDong2017/MergeSet.cpp)
