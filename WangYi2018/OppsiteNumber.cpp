@@ -4,6 +4,15 @@
 #include <algorithm>
 
 using namespace std;
+//直接将数字反转
+//int reverse(int n) {
+//    int res = 0;
+//    while (n) {
+//        res = res * 10 + n % 10;
+//        n /= 10;
+//    }
+//    return res;
+//}
 
 int StrToNum(string s)
 {
