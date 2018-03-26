@@ -22,3 +22,5 @@
 * 我的思路：<br>
 输入的数字首先以字符串的格式读入，然后对字符串反转，再用一个从字符串到数字的转换函数。其实感觉挺麻烦的。Python的写法应该很简单，因为可以直接类型转换，就不多说了。<br>
 * [我的代码](https://github.com/Tramac/NewCoder/blob/master/WangYi2018/OppsiteNumber.cpp)
+* 更新：<br>
+或许直接将数字反转也可以，反转方法添加到了代码中（注释部分）。<br>
