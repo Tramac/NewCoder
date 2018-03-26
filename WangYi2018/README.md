@@ -24,3 +24,13 @@
 * [我的代码](https://github.com/Tramac/NewCoder/blob/master/WangYi2018/OppsiteNumber.cpp)
 * 更新：<br>
 或许直接将数字反转也可以，反转方法添加到了代码中（注释部分）。<br>
+#### 3.字符串碎片
+* 题目：<br>
+一个由小写字母组成的字符串可以看成一些同一字母的最大碎片组成的。例如,"aaabbaaac"是由下面碎片组成的:'aaa','bb','c'。牛牛现在给定一个字符串,请你帮助计算这个字符串的所有碎片的平均长度是多少。<br>
+* 输入描述:<br>
+输入包括一个字符串s,字符串s的长度length(1 ≤ length ≤ 50),s只含小写字母('a'-'z')<br>
+* 输出描述:<br>
+输出一个整数,表示所有碎片的平均长度,四舍五入保留两位小数。<br>
+* 我的思路：<br>
+主要问题就是求这个字符串中有几个碎片，然后用总长度除以碎片个数就行了。主要要保留两位小数，所以我只能用printf输出了，cout应该也可以。
+* [我的代码](https://github.com/Tramac/NewCoder/blob/master/WangYi2018/StringPieces.cpp)<br>
