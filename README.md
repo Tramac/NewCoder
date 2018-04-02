@@ -4,3 +4,4 @@
 * [网易2018编程题](https://github.com/Tramac/NewCoder/tree/master/WangYi2018)
 * [腾讯2017秋编程题](https://github.com/Tramac/NewCoder/tree/master/Tencent2017)
 * [腾讯2017春编程题](https://github.com/Tramac/NewCoder/tree/master/Tencent2017Spring)
+* [腾讯2016研发](https://github.com/Tramac/NewCoder/tree/master/Tencent2016)
