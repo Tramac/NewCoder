@@ -12,3 +12,9 @@
 * 思路：字符串模拟乘法。大数相乘的模板题。
 * 注意：数组的初始化。大数相乘问题。本地编译不知道为什么不能成功。
 * [代码](https://github.com/Tramac/NewCoder/blob/master/PinDuoDuo2018/BigNumberMultiply.cpp)
+#### 3.六一儿童节
+* 题目：<br>
+六一儿童节，老师带了很多好吃的巧克力到幼儿园。每块巧克力j的重量为w[j]，对于每个小朋友i，当他分到的巧克力大小达到h[i] (即w[j]>=h[i])，他才会上去表演节目。老师的目标是将巧克力分发给孩子们，使得最多的小孩上台表演。可以保证每个w[i]> 0且不能将多块巧克力分给一个孩子或将一块分给多个孩子。
+* 思路：首先将两个数组从小到大排序，然后去一一匹配。
+* 注意：算法中因为要排序，用到了sort，可能复杂度会高。这好像是贪心算法？
+* [代码](https://github.com/Tramac/NewCoder/blob/master/PinDuoDuo2018/ChildrenDay.cpp)
