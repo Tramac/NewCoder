@@ -8,3 +8,4 @@
 * [百度2017春编程题](https://github.com/Tramac/NewCoder/tree/master/BaiDu2017Spring)
 * [今日头条2018春第一批](https://github.com/Tramac/NewCoder/tree/master/TouTiao2018Spring-1)
 * [美团2017秋编程题](https://github.com/Tramac/NewCoder/tree/master/MeiTuan2017)
+* [拼多多2018内推编程题](https://github.com/Tramac/NewCoder/tree/master/PinDuoDuo2018)
