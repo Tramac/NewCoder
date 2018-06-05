@@ -15,3 +15,9 @@
 请根据上述规则，计算列表L1和L2中哪些商品在当前页面被展示了。<br>
 * 思路：看似复杂，其实比较简单，理清各种情况就好。
 * [代码](https://github.com/Tramac/NewCoder/blob/master/PinDuoDuo2018_1/ListCompletion.cpp)
+#### 3.数三角形
+* 题目：<br>
+给出平面上的n个点，现在需要你求出，在这n个点里选3个点能构成一个三角形的方案有几种。
+* 思路：暴力枚举是否满足三角形的要求。
+* 注意：如何保存输入的数据？可以用二维vector,记得resize。也可以用二维数组。也可以用两个一维数组分别保存横纵坐标。如何暴力枚举三个点且不重复？注意各个起始位置。如何判断是否满足三角形的要求？通过两个斜率之间是否相同，直接求斜率会造成除0操作，所以要转化相乘判断。
+* [代码](https://github.com/Tramac/NewCoder/blob/master/PinDuoDuo2018_1/NumOfTringle.cpp)
